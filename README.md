@@ -1,8 +1,6 @@
 # AstralHQ
 
-**Mission Control for Modern Teams**
 
-A production-grade SaaS monorepo — NASA mission control meets Notion. Manage projects, tasks, teams, and analytics from a dark luxury command center.
 
 ![Dashboard placeholder](docs/screenshots/dashboard.png)
 
